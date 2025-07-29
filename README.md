@@ -42,16 +42,8 @@ const firebaseConfig = {
 export const app = initializeApp(firebaseConfig);
 <img width="510" height="107" alt="image" src="https://github.com/user-attachments/assets/e8480483-2c4b-41bf-87d3-3dbfd26cf269" />
 
-market_stats/
-│
-├── public/
-├── src/
-│   ├── components/
-│   ├── firebase.js
-│   ├── App.jsx
-│   └── main.jsx
-├── tailwind.config.js
-└── README.md
+<img width="425" height="406" alt="image" src="https://github.com/user-attachments/assets/d60758dc-5b21-4993-bd5c-8a0b4ddb9866" />
+
 
 <img width="1187" height="236" alt="image" src="https://github.com/user-attachments/assets/6dd09960-46a2-4b65-b593-929389acceed" />
 
